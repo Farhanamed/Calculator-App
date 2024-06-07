@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://github.com/catherineisonline/calculator/blob/main/public/project-preview.png?raw=true"></img>
 
 <h1 align="center">Calculator</h1>
@@ -66,3 +67,7 @@ This project serves as a project to show off my personal skills. I do not accept
 ## Acknowledgments
 
 A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/calculator-app-QeAU-DdsSj">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+=======
+# Calculator-App
+ This calculator app serves as a CSS and JS skills test, with a focus on CSS Grid. It requires replicating a provided design, offering resizable elements and customizable color themes, without access to Figma for pixel-perfect accuracy.
+>>>>>>> 70566500178dba8e6b5f6de5633b8954e317fcfd
